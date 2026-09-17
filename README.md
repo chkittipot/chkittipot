@@ -11,6 +11,14 @@
   </a>
 </div>
 
+---
+### :man_technologist: About Me :
+I am a Digital Engineering Student from Thailand.
+- :telescope: I’m studying Digital Engineering at SIIT, Thammasat University.
+- :seedling: Open to new opportunities and challenges in Data Science.
+- :zap: In my free time, I enjoy working out and listening to music.
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
